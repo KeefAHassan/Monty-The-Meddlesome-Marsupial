@@ -3,9 +3,11 @@
 ## Describe
 
 **What is happening? What do you see?**
-
+koalaRouter.put was not a Completed code
 
 **What _should_ be happening? What do you want to see?**
+what i want to see is this
+ res.sendStatus(200);
 
 
 ## Isolate
@@ -42,9 +44,9 @@ Briefly describe your fix:
 
 - [ ] Fix one line of code. Then test using the debugger or `console.log()`s.
 - [ ] Google search
-- [ ] Ask a pod mate for help
+- [x] Ask a pod mate for help
 - [ ] Escalate
 
 **Results**
-
+It Was not a bug just an unfinished code.
 <!-- Go back to your original description. Is the app behaving how you want it to, now? Describe the bug, technically: what was your code doing wrong, and how did you fix it. -->

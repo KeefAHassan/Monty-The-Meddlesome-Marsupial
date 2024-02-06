@@ -1,12 +1,13 @@
 # Bug Report!
+in the batabast.sql
 
 ## Describe
-
+the order of things was not Correct.
 **What is happening? What do you see?**
 
-
+name & color What’s switched around.
 **What _should_ be happening? What do you want to see?**
-
+ need to see  the order in batabast.sql to be correct 
 
 ## Isolate
 
@@ -27,7 +28,7 @@ And describe what it's doing wrong:
 - [ ] VSCode debugger
 - [ ] Chrome Network Panel
 - [ ] Postman
-- [ ] Postico
+- [x] Postico
 
 <!-- Briefly describe how the tool helped you, and how you used it -->
 
